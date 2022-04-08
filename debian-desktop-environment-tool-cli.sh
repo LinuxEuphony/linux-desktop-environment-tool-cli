@@ -23,6 +23,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 '
 
+
 : ' cPrint - Custom function to create a custom coloured print
     |& tee -a $logFileName - append output stream to logs and terminal'
 1="" # Empty any parameter passed by user during script exercution
