@@ -1,2 +1,0 @@
-Research and write install scripts for:
-gnome libminiupnpc17 libnatpmp1 transmission-common transmission-gtk
