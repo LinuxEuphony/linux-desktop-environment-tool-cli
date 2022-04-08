@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Copyright (c) 2020 - 2021 by David Kariuki (dk). All Rights Reserved.
+# Copyright (c) 2020 - 2022 by David Kariuki (dk). All Rights Reserved.
 
 : '
 MIT Licence
