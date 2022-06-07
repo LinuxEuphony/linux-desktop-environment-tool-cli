@@ -28,7 +28,6 @@ To download and use this script:
   5. Type **`chmod +x linux-desktop-environment-tool-cli.sh`** and click on `enter key` to make the script executable.
   6. Type **`./linux-desktop-environment-tool-cli.sh`** to run the script.
 
-\
 
 \
 **Scripts Main menu:**
