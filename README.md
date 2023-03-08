@@ -9,8 +9,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/LinuxEuphony/linux-desktop-environment-tool-cli?&labelColor=black&color=f7b731&style=for-the-badge)
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/LinuxEuphony/linux-desktop-environment-tool-cli?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
-<br>
-
 \
 **Current version: `Version 4.1`**\
 **This script runs on terminal and works best with Debian and Ubuntu**
