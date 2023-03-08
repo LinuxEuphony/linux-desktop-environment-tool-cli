@@ -1,5 +1,16 @@
 # linux-desktop-environment-tool-cli
 
+<br>
+
+![GitHub issues](https://img.shields.io/github/issues/LinuxEuphony/linux-desktop-environment-tool-cli?&labelColor=black&color=eb3b5a&label=Issues&logo=issues&logoColor=black&style=for-the-badge)
+![GitHub Contributions](https://img.shields.io/github/contributors/LinuxEuphony/linux-desktop-environment-tool-cli?&labelColor=black&color=8854d0&style=for-the-badge)
+![repo size](https://img.shields.io/github/repo-size/LinuxEuphony/linux-desktop-environment-tool-cli?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/LinuxEuphony/linux-desktop-environment-tool-cli?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/LinuxEuphony/linux-desktop-environment-tool-cli?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/LinuxEuphony/linux-desktop-environment-tool-cli?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+
+<br>
+
 \
 **Current version: `Version 4.1`**\
 **This script runs on terminal and works best with Debian and Ubuntu**
